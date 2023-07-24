@@ -1,5 +1,6 @@
-package com.example;
+package com.example.repository;
 
+import com.example.Car;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.PagingAndSortingRepository;
